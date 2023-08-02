@@ -68,9 +68,6 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
          src="https://img.shields.io/badge/-Spring%20Cloud-43853d?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-### 💬Contact Me
-
-- Gmail: plexpt@gmail.com
 
 ### 🌱 I’m currently learning
 
@@ -87,4 +84,4 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 ![plex's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/plexpt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/L4Y4EVER)
