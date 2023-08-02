@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/plexpt
+In 2021, I made 8110 contributions and modified 13,000 lines of code. 
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
